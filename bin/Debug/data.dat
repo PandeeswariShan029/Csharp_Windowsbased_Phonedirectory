@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<PhoneData xmlns="http://tempuri.org/PhoneData.xsd">
+  <PhoneBook>
+    <PhoneNo>03325285185</PhoneNo>
+    <FullName>Omar</FullName>
+    <Email>sardaromar@gmail.com</Email>
+    <Address>Abbottabad Pakistan </Address>
+    <ID>-2</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNo>0548747847</PhoneNo>
+    <FullName>Khizar</FullName>
+    <Email>khizar@gmail.com</Email>
+    <Address>Abbottabad Pakistan</Address>
+    <ID>-3</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNo>874784757478</PhoneNo>
+    <FullName>Tania</FullName>
+    <Address>Abbottabad Pakistan</Address>
+    <ID>-4</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNo>8795787478</PhoneNo>
+    <FullName>Taimur</FullName>
+    <ID>-5</ID>
+  </PhoneBook>
+</PhoneData>
